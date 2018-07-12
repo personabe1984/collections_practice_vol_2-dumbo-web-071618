@@ -67,7 +67,7 @@ def merge_data(keys, values)
       end
     end
   end
-  #container
+  container
 end
 
 def organize_schools(schools)
